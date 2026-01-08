@@ -1,3 +1,3 @@
 vm-size = "t2.small"
-vm-name = "ashugit-vm001"
+vm-name = "ashugit-vm-day3"
 
